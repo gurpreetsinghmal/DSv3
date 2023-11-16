@@ -15,7 +15,7 @@
         </div>
     </div>
 </div>
-<div class="text-xl bg-rose-500 z-1 w-full top-0 absolute text-white p-3 rounded-b-lg text-center">Digital Sahungra</div>
+<div class="fixed text-xl bg-rose-500 z-1 w-full top-0  text-white p-3 rounded-b-lg text-center">Digital Sahungra</div>
    
 
 <script>
