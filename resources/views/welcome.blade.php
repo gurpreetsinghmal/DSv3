@@ -25,7 +25,7 @@
     </head>
     <body class="antialiased">
     
-    <div class="text-xl bg-red-400 p-3 text-white">Digital Sahungra</div>
+    @livewire('slideimages')
     <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 selection:bg-red-500 selection:text-white">
         
         @if (Route::has('login'))
